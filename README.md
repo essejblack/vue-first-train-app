@@ -1,8 +1,20 @@
 # first-app
-
-## Project setup
 ```
-npm install
+npm i -g @vue/cli 
+```
+
+## you shoud use these commands in cmd
+
+```
+cd first-app
+```
+
+```
+vue create first-app
+```
+
+```
+vue add router
 ```
 
 ### Compiles and hot-reloads for development
@@ -19,6 +31,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
